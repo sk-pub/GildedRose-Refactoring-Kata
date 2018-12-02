@@ -76,12 +76,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BackstagePassesTest.cs" />
-    <Compile Include="SulfurasTest.cs" />
+    <Compile Include="BackstagePassesItemTest.cs" />
+    <Compile Include="ItemTestHelper.cs" />
+    <Compile Include="SulfurasItemTest.cs" />
     <Compile Include="ApprovalTest.cs" />
-    <Compile Include="NormalItemTest.cs" />
+    <Compile Include="ItemTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="AgedBrieTest.cs" />
+    <Compile Include="AgedBrieItemTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
