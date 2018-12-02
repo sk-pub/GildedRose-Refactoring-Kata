@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="AgedBrieItemProcessor.cs" />
     <Compile Include="BackstagePassesItemProcessor.cs" />
+    <Compile Include="ConjuredItemProcessor.cs" />
     <Compile Include="GildedRose.cs" />
     <Compile Include="IItemProcessor.cs" />
     <Compile Include="Item.cs" />

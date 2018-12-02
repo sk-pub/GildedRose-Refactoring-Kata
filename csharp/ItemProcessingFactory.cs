@@ -11,7 +11,8 @@ namespace csharp
 			{
 				{ "Aged Brie", new AgedBrieItemProcessor() },
 				{ "Backstage passes to a TAFKAL80ETC concert", new BackstagePassesItemProcessor() },
-				{ "Sulfuras, Hand of Ragnaros", new SulfurasItemProcessor() }
+				{ "Sulfuras, Hand of Ragnaros", new SulfurasItemProcessor() },
+				{ "Conjured Mana Cake", new ConjuredItemProcessor() }
 			};
 
 		public static void Process(Item item)
