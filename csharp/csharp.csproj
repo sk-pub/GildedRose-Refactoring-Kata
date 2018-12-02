@@ -41,10 +41,16 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgedBrieItemProcessor.cs" />
+    <Compile Include="BackstagePassesItemProcessor.cs" />
     <Compile Include="GildedRose.cs" />
+    <Compile Include="IItemProcessor.cs" />
     <Compile Include="Item.cs" />
+    <Compile Include="ItemProcessor.cs" />
+    <Compile Include="ItemProcessingFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SulfurasItemProcessor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
