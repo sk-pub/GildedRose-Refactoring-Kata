@@ -76,9 +76,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BackstagePassesTest.cs" />
+    <Compile Include="SulfurasTest.cs" />
     <Compile Include="ApprovalTest.cs" />
-    <Compile Include="GildedRoseTest.cs" />
+    <Compile Include="NormalItemTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AgedBrieTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
